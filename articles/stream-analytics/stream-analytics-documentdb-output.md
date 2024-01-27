@@ -9,7 +9,7 @@ ms.date: 09/15/2022
 ms.custom: seodec18, ignite-2022
 ---
 # Azure Stream Analytics output to Azure Cosmos DB  
-Azure Stream Analytics can target [Azure Cosmos DB](https://azure.microsoft.com/services/documentdb/) for JSON output, enabling data archiving and low-latency queries on unstructured JSON data. This document covers some best practices for implementing this configuration. We recommend that you set your job to compatability level 1.2 when using Azure Cosmos DB as output.
+Azure Stream Analytics can target [Azure Cosmos DB](https://azure.microsoft.com/services/documentdb/) for JSON output, enabling data archiving and low-latency queries on unstructured JSON data. This document covers some best practices for implementing this configuration. We recommend that you set your job to compatibility level 1.2 when using Azure Cosmos DB as output.
 
 If you're unfamiliar with Azure Cosmos DB, see the [Azure Cosmos DB documentation](../cosmos-db/index.yml) to get started. 
 
